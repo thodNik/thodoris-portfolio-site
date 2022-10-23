@@ -1,0 +1,30 @@
+#portfolio {
+  background-color: var(--color-primary-background);
+}
+
+.project {
+  text-align: center;
+}
+
+.project a {
+  text-decoration: none;
+  color: var(--color-main);
+}
+
+.project a:hover {
+  color: var(--color-navbar-background);
+}
+
+.project img {
+  width: 20%;
+  margin-bottom: 10px;
+}
+
+
+/* ==========================================MEDIA QUERIES================================ */
+
+@media screen and (max-width: 600px) {
+  #portfolio {
+    padding-bottom: 10px;
+  }
+}

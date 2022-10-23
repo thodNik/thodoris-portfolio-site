@@ -1,0 +1,43 @@
+.nav {
+  position: fixed;
+  right: 4rem;
+  top: 5rem;
+  z-index: 999;
+  font-family: "Poppins", sans-serif;
+}
+
+.nav-item {
+  background-color: var(--color-navbar-background);
+  text-align: center;
+}
+
+.nav-link {
+  color: var(--color-navbar);
+  font-weight: 400;
+  font-size: 1.3rem;
+  padding: 1em;
+}
+
+.nav-link:hover {
+  color: var(--color-secondary-background);
+}
+
+/* ==========================================MEDIA QUERIES================================ */
+
+@media screen and (max-width: 1400px) {
+  .nav {
+    right: 1rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+

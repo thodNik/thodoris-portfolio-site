@@ -1,0 +1,15 @@
+#experience {
+  background-color: var(--color-primary-background);
+}
+
+/* ==========================================MEDIA QUERIES================================ */
+
+@media screen and (max-width: 600px) {
+ #experience {
+  text-align: center;
+ }
+
+ .description > p {
+  text-align: justify;
+ }
+}

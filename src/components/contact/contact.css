@@ -1,0 +1,38 @@
+#contact {
+  background-color: var(--color-secondary-background);
+  text-align: center;
+}
+
+.a-cont {
+  font-size: 20px;
+  text-decoration: none;
+  color: var(--color-main);
+  width: fit-content;
+}
+
+.a-cont:hover {
+  color: var(--color-navbar-background);
+}
+
+.cont {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+/* ==========================================MEDIA QUERIES================================ */
+
+@media screen and (max-width: 1024px) {
+  #contact {
+    text-align: left;
+  }
+
+  .linkd {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #contact {
+    padding-bottom: 30px;
+  }
+}

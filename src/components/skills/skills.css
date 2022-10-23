@@ -1,0 +1,30 @@
+#skills {
+  background-color: var(--color-secondary-background);
+}
+
+li {
+  list-style: none;
+  color: var(--color-main);
+  font-size: 20px;
+}
+
+.ski {
+  width: 50%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.ski-r {
+  width: 50%;
+  margin: auto;
+}
+
+/* ==========================================MEDIA QUERIES================================ */
+
+@media screen and (max-width: 1024px) {
+  #skills > .container {
+    max-width: inherit;
+    padding: 20px 0 0 0;
+    padding-bottom: 20px;
+  }
+}

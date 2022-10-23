@@ -1,0 +1,60 @@
+header {
+  color: var(--color-navbar-background);
+  background: no-repeat center right fixed;
+  background-size: cover;
+  background-image: url("/src/images/wp3525740-orange-color-background.png");
+  height: 939px;
+}
+
+.container-header {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  position: relative;
+  z-index: 4;
+}
+
+.heading {
+  font-size: 60px;
+  font-weight: 500;
+  margin-top: 330px;
+}
+
+.overlay {
+  position: absolute;
+  z-index: 2;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+
+h1 {
+  display: inline-block;
+  border-bottom: 1px solid var(--color-navbar-background);
+}
+
+/* ==========================================MEDIA QUERIES================================ */
+
+@media screen and (max-width: 600px) {
+  header {
+    height: inherit;
+
+    background-size: none;
+  }
+
+  .overlay {
+    display: none;
+  }
+
+  .container-header {
+    width: inherit;
+    padding-bottom: 10px;
+  }
+
+  h4 {
+    margin-bottom: 200px;
+  }
+}
