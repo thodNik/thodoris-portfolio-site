@@ -12,7 +12,7 @@ const Portfolio = () => {
         <figure className="project">
           <img src={pic} alt="pharmacy"/>
           <figcaption>
-          <a href="https://pantelisnikolaidispharmacy.herokuapp.com/" >Pantelis Nikolaidis <br/>Pharmacy</a>
+          <a href="https://pantelis-nikolaidis-pharmacy.netlify.app/" >Pantelis Nikolaidis <br/>Pharmacy</a>
           </figcaption>
           
         </figure>
