@@ -26,7 +26,7 @@ const About = () => {
             <p>
               I am a full stack developer with strong organizational skills.
               Experienced with working in teams, achieving the goals assigned to me and
-              working under pressure. I am a fast learner and always
+              capable of working under pressure. I am a fast learner and always
               willing to explore professional opportunities that will leverage my
               skills and professional development.
             </p>
