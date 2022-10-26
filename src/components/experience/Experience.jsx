@@ -48,8 +48,8 @@ const Experience = () => {
             <div className="col-lg-8 description">
               <h5>Fulltime - Quality Assurance/Quality Control Officer</h5>
               <p>
-                At September 2015 I was transfered in the newly built central
-                laboratory of the Group. I was in charge with the daily quality
+                In September 2015 I was transfered to the newly built central
+                laboratory of the Group. I was in charge of the daily quality
                 control and maintenance of all analyzers, and pre-evaluation of
                 blood test results.
               </p>
@@ -63,8 +63,8 @@ const Experience = () => {
             <div className="col-lg-8 description">
               <h5>Fulltime - Clinical Chemist</h5>
               <p>
-                Medical Diagnosis Group is a healthcare company. I did a 3 month
-                intership at first and then started working at Chaidari unit as a Clinical
+                Medical Diagnosis Group is a healthcare company. Following a 3 month
+                intership, I started working at Chaidari unit as a Clinical
                 Chemist. My main responsibilities were maintenance and
                 adjustment of laboratory equipement and daily quality control
                 for Biochemical analyzer.
@@ -83,8 +83,8 @@ const Experience = () => {
             <div className="col-lg-8 description">
               <h5>Bachelor - Chemistry</h5>
               <p>
-                During my time in university I speciallized about food chemistry.
-                My thesis was about Tetra Pak packaging solutions.
+                I speciallized about food chemistry.
+                My thesis was on Tetra Pak packaging solutions.
               </p>
             </div>
           </div>
@@ -96,8 +96,8 @@ const Experience = () => {
             <div className="col-lg-8 description">
               <h5>Highschool</h5>
               <p>
-                I graduated from highschool having choose the life sciences field
-                wich included Biology, Chemistry, Mathematics.
+                I graduated  having choose the Sciences & Health sciences field
+                wich included Biology, Chemistry and Mathematics.
               </p>
             </div>
           </div>

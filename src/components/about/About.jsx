@@ -25,9 +25,10 @@ const About = () => {
             <h3>About me</h3>
             <p>
               I am a full stack developer with strong organizational skills.
-              Used to working in teams, achieving the goals assigned to me and
+              Experienced with working in teams, achieving the goals assigned to me and
               working under pressure. I am a fast learner and always
-              willing to learn and develop.
+              willing to explore professional opportunities that will leverage my
+              skills and professional development.
             </p>
           </div>
           <div className="col-lg-4 profile-center">
