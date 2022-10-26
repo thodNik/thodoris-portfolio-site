@@ -83,7 +83,7 @@ const Experience = () => {
             <div className="col-lg-8 description">
               <h5>Bachelor - Chemistry</h5>
               <p>
-                I speciallized about food chemistry.
+                I specialized in food chemistry.
                 My thesis was on Tetra Pak packaging solutions.
               </p>
             </div>
@@ -96,7 +96,7 @@ const Experience = () => {
             <div className="col-lg-8 description">
               <h5>Highschool</h5>
               <p>
-                I graduated  having choose the Sciences & Health sciences field
+                I graduated  having chosen the Sciences & Health sciences field
                 wich included Biology, Chemistry and Mathematics.
               </p>
             </div>
